@@ -5,8 +5,8 @@ import 'semantic-ui-css/semantic.min.css';
 class App extends Component {
 	render() {
 		return (
-			<div className="App asd">
-				<span className="lol">tu nie ma tekstu przeciez</span>
+			<div className="App">
+				Hi there!
 			</div>
 		);
 	}
